@@ -1,11 +1,19 @@
 {
-  "name": "react-resume-template",
-  "short_name": "react-resume-template",
-  "icons": [
-    {"src": "/icon-192.png", "type": "image/png", "sizes": "192x192"},
-    {"src": "/icon-512.png", "type": "image/png", "sizes": "512x512"}
-  ],
-  "theme_color": "#515455",
-  "background_color": "#515455",
-  "display": "standalone"
+    "name": "Fabian Fischer's Portfolio",
+    "short_name": "fabianfischer.de",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
 }
